@@ -1,0 +1,53 @@
+Offense_Type,Severity_Level,Criminal_Record,Monthly_Income,Assets,Liabilities,Socio_Economic_Status,Previous_Bail_Decisions,Surety_Bond_Amount
+Theft,3,No,4000,20000,5000,Middle,No,50000
+Assault,4,Yes,2500,15000,2000,Low,Yes,35000
+Fraud,5,No,6000,70000,10000,High,No,75000
+Robbery,4,Yes,3000,10000,8000,Low,No,60000
+Cyber Crime,5,No,5000,50000,5000,Middle,Yes,70000
+Theft,2,No,3500,25000,3000,High,No,45000
+Assault,3,Yes,2800,8000,1500,Low,Yes,40000
+Fraud,4,No,5500,60000,2000,Middle,No,65000
+Robbery,5,Yes,4000,15000,7000,Low,Yes,70000
+Cyber Crime,3,No,4500,30000,4000,Middle,No,55000
+Murder,5,Yes,2000,50000,20000,Low,Yes,100000
+Drug Trafficking,5,Yes,1000,100000,30000,Low,No,120000
+Extortion,4,No,3500,20000,7000,Middle,Yes,55000
+Kidnapping,5,Yes,1500,30000,10000,Low,No,90000
+Arson,4,No,4000,15000,5000,Middle,Yes,60000
+Sexual Assault,5,Yes,2000,20000,10000,Low,Yes,110000
+Burglary,3,No,3000,25000,3000,High,No,40000
+Shoplifting,2,No,4500,10000,2000,Middle,No,25000
+Robbery,5,Yes,5000,25000,15000,Low,Yes,80000
+Cyber Crime,4,No,6000,60000,6000,Middle,No,70000
+Murder,5,Yes,1500,40000,25000,Low,Yes,120000
+Drug Trafficking,5,No,2000,80000,15000,Low,Yes,110000
+Theft,3,Yes,3500,15000,4000,Middle,Yes,55000
+Assault,4,No,3000,20000,5000,High,No,45000
+Fraud,5,Yes,7000,75000,12000,Middle,Yes,85000
+Robbery,4,No,3200,12000,6000,Low,Yes,55000
+Cyber Crime,5,Yes,5500,55000,7000,Middle,No,72000
+Murder,5,No,1500,60000,30000,Low,Yes,125000
+Drug Trafficking,5,Yes,1200,90000,20000,Low,No,115000
+Extortion,4,Yes,4000,30000,8000,Middle,No,60000
+Kidnapping,5,No,1800,40000,15000,Low,Yes,95000
+Arson,4,Yes,3500,20000,7000,Middle,Yes,58000
+Sexual Assault,5,No,2500,25000,12000,Low,No,115000
+Burglary,3,Yes,3200,30000,4000,High,No,42000
+Shoplifting,2,Yes,4200,8000,1500,Middle,Yes,27000
+Robbery,5,No,5000,20000,7000,Low,Yes,75000
+Cyber Crime,4,Yes,6500,65000,8000,Middle,No,72000
+Murder,5,Yes,1800,50000,25000,Low,Yes,130000
+Drug Trafficking,5,No,1500,80000,18000,Low,No,120000
+Theft,3,No,4000,30000,5000,Middle,Yes,49000
+Assault,4,Yes,2800,10000,2500,Low,No,38000
+Fraud,5,No,6000,70000,9000,High,Yes,76000
+Robbery,4,Yes,2900,15000,8000,Low,No,62000
+Cyber Crime,5,No,5200,55000,6000,Middle,Yes,69000
+Murder,5,Yes,1700,55000,22000,Low,Yes,120000
+Drug Trafficking,5,Yes,1100,85000,20000,Low,Yes,115000
+Extortion,4,No,3300,25000,6000,Middle,No,56000
+Kidnapping,5,Yes,1600,32000,12000,Low,Yes,92000
+Arson,4,No,3900,18000,5000,Middle,No,59000
+Sexual Assault,5,Yes,1900,22000,10000,Low,Yes,115000
+Burglary,3,No,3100,28000,3500,High,No,41000
+Shoplifting,2,No,4300,12000,2000,Middle,Yes,26000
